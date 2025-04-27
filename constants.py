@@ -1,2 +1,2 @@
 # KEY informations
-GEMINI_KEY = "AIzaSyCITno918sY-jAHhobYFslS-Exse9EZCAQ" # Replace with your API key
+GEMINI_KEY = "YOUR_KEY" # Replace with your API key
